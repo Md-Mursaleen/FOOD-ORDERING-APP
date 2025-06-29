@@ -1,6 +1,6 @@
 # FOOD ORDERING APP
 
-The Food Ordering App is a cross-platform mobile application built with React Native, Redux, JavaScript, and Firebase. It allows users to order food and other necessary items from nearby restaurants, working seamlessly on both Android and iOS devices.
+The Food Ordering App is a cross-platform mobile application built with React Native, Redux, JavaScript and Google Firebase. It allows users to order food and other necessary items from nearby restaurants, working seamlessly on both Android and iOS devices.
 
 ## Key Features
 
